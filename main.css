@@ -321,4 +321,7 @@ footer p a:hover {
   .ul-top li a {
     font-size: 0.65rem;
   }
+  footer p {
+    font-size: 0.65rem;
+  }
 }
